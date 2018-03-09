@@ -1,0 +1,11 @@
+commit 87f97cd4753aa78655cc78548807edf5a558f473
+Author: Laze Gjorgiev <gorgiev.laze@gmail.com>
+Date:   Fri Mar 9 16:01:00 2018 +0100
+
+    modify l1.txt
+
+commit 4ae19e66df6b170a65bf0bb6b9bbfd415b51c6b8
+Author: Laze Gjorgiev <gorgiev.laze@gmail.com>
+Date:   Fri Mar 9 15:57:44 2018 +0100
+
+    Initial commit
